@@ -10,3 +10,13 @@ This project is a simple web-based platform that helps users track their moods a
 - **Mood History Page** – Users can view all previous mood logs in a table.
 
 ## Repository Structure
+## Screenshots
+
+### Dashboard
+![Dashboard](images/dashboard.png)
+
+### Mood Log
+![Mood Log](images/mood-log.png)
+
+### Mood History
+![Mood History](images/mood-history.png)
