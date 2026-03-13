@@ -13,10 +13,10 @@ This project is a simple web-based platform that helps users track their moods a
 ## Screenshots
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.JPG)
 
 ### Mood Log
-![Mood Log](images/mood-log.png)
+![Mood Log](images/mood_log.JPG)
 
 ### Mood History
-![Mood History](images/mood-history.png)
+![Mood History](images/mood_history.JPG)
