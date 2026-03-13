@@ -19,4 +19,4 @@ This project is a simple web-based platform that helps users track their moods a
 ![Mood Log](images/mood_log.JPG)
 
 ### Mood History
-![Mood History](images/mood_history.JPG)
+![Mood History](images/Mood_history.JPG)
