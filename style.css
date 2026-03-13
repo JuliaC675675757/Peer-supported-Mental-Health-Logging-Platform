@@ -53,3 +53,45 @@ a.logout {
 a.logout:hover {
     background-color: #dc2626;
 }
+
+/* Mood Log & form styling */
+form {
+    width: 80%;
+    max-width: 500px;
+    margin: 30px auto;
+    text-align: left;
+    background-color: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+label {
+    font-weight: 500;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-family: 'Poppins', sans-serif;
+}
+
+button.btn {
+    background-color: #3b82f6;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button.btn:hover {
+    background-color: #2563eb;
+}
